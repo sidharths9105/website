@@ -1,7 +1,0 @@
-baseURL = "https://fossclublbscek.com/"
-title = "FOSS Club - LBSCEK"
-theme = "ananke"
-
-[params]
-  description = "Welcome to the FOSS Club LBSCEK!"
-  author = "FOSS Club"
